@@ -1,0 +1,16 @@
+# Core dependencies for Multiple Randomization Designs (MRD) paper reproduction
+numpy>=1.21.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+seaborn>=0.11.0
+
+# Progress bars and performance optimization
+tqdm>=4.62.0
+numba>=0.56.0
+
+# Statistical analysis
+statsmodels>=0.13.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipython>=7.0.0
